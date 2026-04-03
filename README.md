@@ -1,5 +1,24 @@
 # 💫 About Me:
-🔭 Currently Working On: AI projects focused on Chatbot development,Machine learning and Deep learning.<br><br>👯 Looking to Collaborate On: Innovative AI and deep learning projects, particularly in the field of conversational agents.<br><br>🤝 Looking for Help With: Enhancing chatbot capabilities and integrating AI solutions into real-world applications.<br><br>🌱 Currently Learning: Advanced techniques in AI, deep learning, and natural language processing to elevate chatbot performance.<br><br>💬 Ask Me About: AI, machine learning, chatbot development, and any challenges you face in these domains.<br><br>⚡ Fun Fact: I'm blending my passion for AI with a knack for creating intelligent conversational systems—who knew bots could be so intriguing?
+
+I’m an AI/GenAI Engineer specializing in LLMs, AI Agents, and intelligent automation systems. My work focuses on building scalable agentic workflows, multimodal reasoning systems, and production-ready AI applications. I combine deep learning, retrieval systems, and modern GenAI frameworks to create solutions that are robust, efficient, and deeply practical.
+
+# 🚀 Core Focus Areas
+LLM Engineering: Prompt design, fine-tuning, RAG systems, embeddings, vector stores.
+AI Agents & Agentic Workflows: Multi-agent collaboration, tool-use agents, workflow orchestration.
+Automation Systems: Task automation, decision pipelines, context-aware systems using LangChain, LlamaIndex, Gemini APIs.
+Deep Learning: CNNs, medical imaging (lung nodule classification), model training & explainability (Grad-CAM).
+Application Development: Streamlit apps, GenAI prototypes, cloud-integrated AI tools.
+Research & Experimentation: Active learning, multimodal models, evaluation techniques.
+
+# 🧠 What I Build
+Autonomous AI agents that can plan, reason, and execute tasks.
+End-to-end Agentic AI automation pipelines.
+Intelligent chatbots powered by LLMs + tools.
+ML/DL models for classification, detection, and decision support.
+Practical data-driven systems for real-world use cases.
+
+#💡 Philosophy
+“Agentic AI should be reliable, interpretable, and built to solve real problems — not just generate outputs.”
 
 
 ## 🌐 Socials:
